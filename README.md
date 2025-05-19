@@ -27,7 +27,7 @@ The Simple Analysis System is a lightweight Flask-based web application that pro
 ```bash
 apt-get update -y && apt-get upgrade -y
 apt-get install python git
-git clone github.com/Elang-elang/SASTPython 
+git clone https://github.com/Elang-elang/SASTPython.git 
 ```
 
 2. **Prepare your data**:
